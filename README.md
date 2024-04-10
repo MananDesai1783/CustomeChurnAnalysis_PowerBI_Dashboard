@@ -9,6 +9,6 @@
 
 ## Dashboard Snapshots
 Churn 1
-![Dashboard Snapshot](Snapshot_Churn 1.png)
+![Dashboard Snapshot](Snapshot_Churn_1.png)
 Churn 2
-![Dashboard Snapshot](Snapshot_Churn 2.png)
+![Dashboard Snapshot](Snapshot_Churn_2.png)
