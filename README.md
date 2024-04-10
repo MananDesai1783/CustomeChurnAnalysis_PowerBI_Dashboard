@@ -1,9 +1,7 @@
 # Custome Churn Analysis - Power BI Dashboard
 
 ## Overview
-• As a Data Analyst, the project aims to delve into extensive datasets from both banking and telecom domains to understand customer churn dynamics.
-• By leveraging various customer-related features such as demographics, transaction history, and activity status, the goal is to analyze patterns and build predictive models capable of forecasting customer churn.
-• Through comprehensive data analysis, feature engineering, and model development, the project seeks to empower businesses with actionable insights to implement targeted retention strategies and enhance customer loyalty.
+As a Data Analyst, the project aims to delve into extensive datasets from both banking and telecom domains to understand customer churn dynamics. By leveraging various customer-related features such as demographics, transaction history, and activity status, the goal is to analyze patterns and build predictive models capable of forecasting customer churn. Through comprehensive data analysis, feature engineering, and model development, the project seeks to empower businesses with actionable insights to implement targeted retention strategies and enhance customer loyalty.
 
 ##Analysis Objectives 
 
