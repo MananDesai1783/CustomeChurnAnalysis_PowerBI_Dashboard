@@ -9,6 +9,6 @@
 ![Dashboard Objectives](Customer_Analysis_PPT.pptx)
 ## Dashboard Snapshots
 Churn 1
-![Dashboard Snapshot](Snapshot_Churn1.png)
+![Dashboard Snapshot](Snapshot_Churn 1.png)
 Churn 2
-![Dashboard Snapshot](Snapshot_Churn2.png)
+![Dashboard Snapshot](Snapshot_Churn 2.png)
