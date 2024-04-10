@@ -25,6 +25,7 @@ over time.
 
 ## Dashboard Analysis
 ![Dashboard Snapshot](Snapshot_Churn_1.png)
+
 • Total Customers: The number of total customers is increasing. In November there were 715,733 customers and this number increased to 733,731 in December. This is an increase of around 18,000 customers.
 
 • Exit Customers: The number of exit customers is also increasing. There were 1,400 exit customers in November and 1,700 in December. This is an increase of around 300 customers.
@@ -36,6 +37,7 @@ over time.
 • Overall, the dashboard suggests that the company is acquiring new customers at a faster rate than it is losing them. However, the number of exit customers is also increasing, so it is important to investigate the reasons for this churn.
 
 ![Dashboard Snapshot](Snapshot_Churn_2.png)
+
 • Churn Rate: The churn rate, represented by "Exit Customers" as a percentage of "Total Customers", fluctuates throughout the year. It's generally higher in the first half of the year, reaching peaks in April (26.71% in 2017) and May (23.02% in 2016). December tends to have the lowest churn rates, with December 2019 having the lowest at 12.00%.
 
 • Credit Card Holders vs Non-Credit Card Holders: Customers who have credit cards tend to churn less than those who don't. For instance, in December 2019, the churn rate for non-credit card holders was 39.96%, whereas it was only 21.36% for credit card holders.
